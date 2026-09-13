@@ -116,6 +116,7 @@ export default function Footer() {
           <Link to="/admin" className="hover:text-accent-400 transition-colors">
             Admin
           </Link>
+          <p>Made by NOVRA GROUP</p>
         </div>
       </div>
     </footer>
